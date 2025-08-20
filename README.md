@@ -13,13 +13,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tishembitov.tishembitov&left_text=Profile%20Views&left_color=gray&right_color=blue" alt="visitor badge"/>
 </div>
 
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tishembitov@gmail.com)
-
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate Backend Developer specializing in building scalable applications using microservices architecture.
