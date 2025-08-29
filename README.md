@@ -24,10 +24,6 @@ I'm a passionate Backend Developer specializing in building scalable application
 - Building distributed systems with Spring Boot and Spring Cloud
 - Ensuring high performance and reliability in backend services
 
-### 📚 Currently Learning
-- Deep diving into RAG (Retrieval-Augmented Generation) systems
-- Studying MCP (Model Context Protocol) for enhanced AI integrations
-
 <br clear="both">
 
 ## 🛠 Tech Stack
