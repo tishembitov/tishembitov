@@ -53,7 +53,16 @@ I'm a passionate Backend Developer specializing in building scalable application
 </div>
 
 ## ⚡ GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tishembitov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&v=2)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tishembitov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishembitov&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tishembitov/tishembitov/output/ocean-dark.svg" />
