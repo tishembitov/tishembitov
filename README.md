@@ -17,7 +17,7 @@
 
 I'm a passionate Backend Developer specializing in building scalable applications using microservices architecture.
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5idGVxYnUxYndqOW83YXpvOXg0dmJpdGlueDdiOGMxdHNjeXJuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
 
 ### 🔭 Currently Working On
 - Designing and implementing robust microservices solutions
