@@ -56,10 +56,10 @@ I'm a passionate Backend Developer specializing in building scalable application
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tishembitov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tishembitov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishembitov&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishembitov&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
