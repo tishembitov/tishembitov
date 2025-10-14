@@ -1,23 +1,23 @@
 <br clear="both">
 
 <div align="center">
-    <img height="300" width="700" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNmNnV1aDVmNGxlajR3aWExN2FqNG9tdWJmbnk2c3o4OXRpdHYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwxzFXEymTsf6/giphy.gif" alt="coding" />
+    <img height="300" width="700" src="https://i.pinimg.com/736x/80/7f/b5/807fb5c3c5efb50dd303ae17e242ac96.jpg" />
 </div>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Tagir!;Welcome+to+my+profile!&center=true&size=30">
-</h1>
+</h1> -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tishembitov.tishembitov&left_text=Profile%20Views&left_color=gray&right_color=blue" alt="visitor badge"/>
-</div>
+</div> -->
 
 ## 🚀 About Me
 
 I'm a passionate Backend Developer specializing in building scalable applications using microservices architecture.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif"> -->
 
 ### 🔭 Currently Working On
 - Designing and implementing robust microservices solutions
@@ -52,8 +52,7 @@ I'm a passionate Backend Developer specializing in building scalable application
 
 </div>
 
-## ⚡ GitHub Stats
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=tishembitov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=86400" />
@@ -68,4 +67,4 @@ I'm a passionate Backend Developer specializing in building scalable application
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tishembitov/tishembitov/output/ocean-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tishembitov/tishembitov/output/ocean-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tishembitov/tishembitov/output/ocean-snake.svg" />
-</picture>
+</picture> -->
