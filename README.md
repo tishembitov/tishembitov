@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
     <img height="300" width="700" src="https://i.pinimg.com/736x/80/7f/b5/807fb5c3c5efb50dd303ae17e242ac96.jpg" />
 </div>
@@ -23,8 +21,6 @@ I'm a passionate Backend Developer specializing in building scalable application
 - Designing and implementing robust microservices solutions
 - Building distributed systems with Spring Boot and Spring Cloud
 - Ensuring high performance and reliability in backend services
-
-<br clear="both">
 
 ## 🛠 Tech Stack
 
