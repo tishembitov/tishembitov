@@ -44,7 +44,7 @@ I'm a passionate Backend Developer specializing in building scalable application
 
 <div align="left">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tishembitov?theme=dark&border=1&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/8bitov?theme=dark&border=1&radius=20)
 
 </div>
 
